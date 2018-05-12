@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36076
     wikipedia: http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82_%CE%92%CE%B1%CE%BB%CE%B1%CF%89%CF%81%CE%AF%CF%84%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32852#--------------------------------
 gutenberg_issued: '2010-06-17'
 gutenberg_type: Text
 identifiers:
