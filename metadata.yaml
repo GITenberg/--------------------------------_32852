@@ -1,0 +1,42 @@
+_repo: '--------------------------------_32852'
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Lampros, Paulos
+    aliases:
+    - Lambros, Paul
+    - Lampros, Paul
+    - Lambros, P. (Paulos)
+    birthdate: 1819
+    deathdate: 1887
+    gutenberg_agent_id: '35548'
+    url: http://www.gutenberg.org/2009/agents/35548
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valaorites, Aristoteles
+    aliases:
+    - Valaoritis, Aristotelis
+    - Βαλαωρίτης, Αριστοτέλης
+    - Balaorites, Aristoteles
+    birthdate: 1824
+    deathdate: 1879
+    gutenberg_agent_id: '36076'
+    url: http://www.gutenberg.org/2009/agents/36076
+    wikipedia: http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82_%CE%92%CE%B1%CE%BB%CE%B1%CF%89%CF%81%CE%AF%CF%84%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2010-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32852'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Diakos, Athanases, approximately 1788-1821 -- Poetry'
+title: Αθανάσης Διάκος - Αστραπόγιαννος
+url: http://www.gutenberg.org/ebooks/32852
